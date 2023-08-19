@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/divine/static/css/main.22450541.css",
-    "main.js": "/divine/static/js/main.99943d9f.js",
+    "main.js": "/divine/static/js/main.07a30425.js",
     "static/js/938.6773c0f1.chunk.js": "/divine/static/js/938.6773c0f1.chunk.js",
-    "static/js/474.64dcf8a1.chunk.js": "/divine/static/js/474.64dcf8a1.chunk.js",
+    "static/js/230.bf7e2797.chunk.js": "/divine/static/js/230.bf7e2797.chunk.js",
     "static/js/7.2f7a922b.chunk.js": "/divine/static/js/7.2f7a922b.chunk.js",
     "static/js/994.8d9d823c.chunk.js": "/divine/static/js/994.8d9d823c.chunk.js",
     "static/js/787.0730a156.chunk.js": "/divine/static/js/787.0730a156.chunk.js",
     "static/js/329.4477b6d0.chunk.js": "/divine/static/js/329.4477b6d0.chunk.js",
     "static/js/543.042f83a5.chunk.js": "/divine/static/js/543.042f83a5.chunk.js",
     "static/media/banner-Img-2.jpg": "/divine/static/media/banner-Img-2.50903197cc930cf3343a.jpg",
-    "static/media/product-img.jpg": "/divine/static/media/product-img.e001ec32589caef715ff.jpg",
     "static/media/footer_logo.png": "/divine/static/media/footer_logo.8ab495fef373d8ddf90e.png",
     "static/media/contactusbg4.png": "/divine/static/media/contactusbg4.5244dc192d51cd5d58b3.png",
     "static/media/Poppins-LightItalic.woff": "/divine/static/media/Poppins-LightItalic.83416d28b24d0de06367.woff",
@@ -49,9 +48,9 @@
     "static/media/Left_arrow_blue.svg": "/divine/static/media/Left_arrow_blue.f5ec41fcd1fef48c8417.svg",
     "static/media/Left_arrow_white.svg": "/divine/static/media/Left_arrow_white.e6b79373246125b32d14.svg",
     "main.22450541.css.map": "/divine/static/css/main.22450541.css.map",
-    "main.99943d9f.js.map": "/divine/static/js/main.99943d9f.js.map",
+    "main.07a30425.js.map": "/divine/static/js/main.07a30425.js.map",
     "938.6773c0f1.chunk.js.map": "/divine/static/js/938.6773c0f1.chunk.js.map",
-    "474.64dcf8a1.chunk.js.map": "/divine/static/js/474.64dcf8a1.chunk.js.map",
+    "230.bf7e2797.chunk.js.map": "/divine/static/js/230.bf7e2797.chunk.js.map",
     "7.2f7a922b.chunk.js.map": "/divine/static/js/7.2f7a922b.chunk.js.map",
     "994.8d9d823c.chunk.js.map": "/divine/static/js/994.8d9d823c.chunk.js.map",
     "787.0730a156.chunk.js.map": "/divine/static/js/787.0730a156.chunk.js.map",
@@ -60,6 +59,6 @@
   },
   "entrypoints": [
     "static/css/main.22450541.css",
-    "static/js/main.99943d9f.js"
+    "static/js/main.07a30425.js"
   ]
 }
