@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/divine/static/css/main.22450541.css",
-    "main.js": "/divine/static/js/main.07a30425.js",
-    "static/js/938.6773c0f1.chunk.js": "/divine/static/js/938.6773c0f1.chunk.js",
+    "main.js": "/divine/static/js/main.de2f5bf4.js",
+    "static/js/623.62ccf20e.chunk.js": "/divine/static/js/623.62ccf20e.chunk.js",
     "static/js/230.bf7e2797.chunk.js": "/divine/static/js/230.bf7e2797.chunk.js",
     "static/js/7.2f7a922b.chunk.js": "/divine/static/js/7.2f7a922b.chunk.js",
     "static/js/994.8d9d823c.chunk.js": "/divine/static/js/994.8d9d823c.chunk.js",
@@ -10,6 +10,14 @@
     "static/js/329.4477b6d0.chunk.js": "/divine/static/js/329.4477b6d0.chunk.js",
     "static/js/543.042f83a5.chunk.js": "/divine/static/js/543.042f83a5.chunk.js",
     "static/media/banner-Img-2.jpg": "/divine/static/media/banner-Img-2.50903197cc930cf3343a.jpg",
+    "static/media/Taylors Brace-2.jpg": "/divine/static/media/Taylors Brace-2.a4af89fff0f5a29df81c.jpg",
+    "static/media/Hinged Knee Brace Open Paella.jpg": "/divine/static/media/Hinged Knee Brace Open Paella.f4ef3329b7ad30d47df2.jpg",
+    "static/media/Contoured LS Corset.jpg": "/divine/static/media/Contoured LS Corset.52402b279c122cbd6093.jpg",
+    "static/media/Foot Drop Splint.jpg": "/divine/static/media/Foot Drop Splint.2e22f2e6ed577c606357.jpg",
+    "static/media/Post Maternity Corset.jpg": "/divine/static/media/Post Maternity Corset.65c7e06d3a120e02fefb.jpg",
+    "static/media/Taylors Brace-1.jpg": "/divine/static/media/Taylors Brace-1.545bf46f51ae8334df1d.jpg",
+    "static/media/Wrist & Forearm Splint.jpg": "/divine/static/media/Wrist & Forearm Splint.ea960338ea3263fa826a.jpg",
+    "static/media/Clavicle Brace.jpg": "/divine/static/media/Clavicle Brace.4322bea71f73fd845f5b.jpg",
     "static/media/footer_logo.png": "/divine/static/media/footer_logo.8ab495fef373d8ddf90e.png",
     "static/media/contactusbg4.png": "/divine/static/media/contactusbg4.5244dc192d51cd5d58b3.png",
     "static/media/Poppins-LightItalic.woff": "/divine/static/media/Poppins-LightItalic.83416d28b24d0de06367.woff",
@@ -48,8 +56,8 @@
     "static/media/Left_arrow_blue.svg": "/divine/static/media/Left_arrow_blue.f5ec41fcd1fef48c8417.svg",
     "static/media/Left_arrow_white.svg": "/divine/static/media/Left_arrow_white.e6b79373246125b32d14.svg",
     "main.22450541.css.map": "/divine/static/css/main.22450541.css.map",
-    "main.07a30425.js.map": "/divine/static/js/main.07a30425.js.map",
-    "938.6773c0f1.chunk.js.map": "/divine/static/js/938.6773c0f1.chunk.js.map",
+    "main.de2f5bf4.js.map": "/divine/static/js/main.de2f5bf4.js.map",
+    "623.62ccf20e.chunk.js.map": "/divine/static/js/623.62ccf20e.chunk.js.map",
     "230.bf7e2797.chunk.js.map": "/divine/static/js/230.bf7e2797.chunk.js.map",
     "7.2f7a922b.chunk.js.map": "/divine/static/js/7.2f7a922b.chunk.js.map",
     "994.8d9d823c.chunk.js.map": "/divine/static/js/994.8d9d823c.chunk.js.map",
@@ -59,6 +67,6 @@
   },
   "entrypoints": [
     "static/css/main.22450541.css",
-    "static/js/main.07a30425.js"
+    "static/js/main.de2f5bf4.js"
   ]
 }
