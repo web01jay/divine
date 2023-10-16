@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/divine/static/css/main.2d174133.css",
+    "main.css": "/divine/static/css/main.22450541.css",
     "main.js": "/divine/static/js/main.6112b137.js",
     "static/js/623.aa3e1798.chunk.js": "/divine/static/js/623.aa3e1798.chunk.js",
     "static/js/230.759e1e87.chunk.js": "/divine/static/js/230.759e1e87.chunk.js",
@@ -101,7 +101,7 @@
     "static/media/Right_arrow_blue.svg": "/divine/static/media/Right_arrow_blue.1ce9762e98e6cd6d21d7.svg",
     "static/media/Left_arrow_blue.svg": "/divine/static/media/Left_arrow_blue.f5ec41fcd1fef48c8417.svg",
     "static/media/Left_arrow_white.svg": "/divine/static/media/Left_arrow_white.e6b79373246125b32d14.svg",
-    "main.2d174133.css.map": "/divine/static/css/main.2d174133.css.map",
+    "main.22450541.css.map": "/divine/static/css/main.22450541.css.map",
     "main.6112b137.js.map": "/divine/static/js/main.6112b137.js.map",
     "623.aa3e1798.chunk.js.map": "/divine/static/js/623.aa3e1798.chunk.js.map",
     "230.759e1e87.chunk.js.map": "/divine/static/js/230.759e1e87.chunk.js.map",
@@ -113,7 +113,7 @@
     "984.6684283e.chunk.js.map": "/divine/static/js/984.6684283e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d174133.css",
+    "static/css/main.22450541.css",
     "static/js/main.6112b137.js"
   ]
 }
