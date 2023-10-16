@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/divine/static/css/main.22450541.css",
-    "main.js": "/divine/static/js/main.6112b137.js",
-    "static/js/623.aa3e1798.chunk.js": "/divine/static/js/623.aa3e1798.chunk.js",
+    "main.js": "/divine/static/js/main.124371b3.js",
+    "static/js/623.7b95643a.chunk.js": "/divine/static/js/623.7b95643a.chunk.js",
     "static/js/230.759e1e87.chunk.js": "/divine/static/js/230.759e1e87.chunk.js",
-    "static/js/254.b89a6b02.chunk.js": "/divine/static/js/254.b89a6b02.chunk.js",
-    "static/js/526.03e6199f.chunk.js": "/divine/static/js/526.03e6199f.chunk.js",
+    "static/js/7.2f7a922b.chunk.js": "/divine/static/js/7.2f7a922b.chunk.js",
     "static/js/994.8d9d823c.chunk.js": "/divine/static/js/994.8d9d823c.chunk.js",
     "static/js/787.0730a156.chunk.js": "/divine/static/js/787.0730a156.chunk.js",
-    "static/js/575.3aed44f9.chunk.js": "/divine/static/js/575.3aed44f9.chunk.js",
+    "static/js/329.4477b6d0.chunk.js": "/divine/static/js/329.4477b6d0.chunk.js",
     "static/js/984.6684283e.chunk.js": "/divine/static/js/984.6684283e.chunk.js",
     "static/media/banner-Img-2.jpg": "/divine/static/media/banner-Img-2.50903197cc930cf3343a.jpg",
     "static/media/Thoraco Lumbar Applicant.webp": "/divine/static/media/Thoraco Lumbar Applicant.564614902cfa0d28d94f.webp",
@@ -102,18 +101,17 @@
     "static/media/Left_arrow_blue.svg": "/divine/static/media/Left_arrow_blue.f5ec41fcd1fef48c8417.svg",
     "static/media/Left_arrow_white.svg": "/divine/static/media/Left_arrow_white.e6b79373246125b32d14.svg",
     "main.22450541.css.map": "/divine/static/css/main.22450541.css.map",
-    "main.6112b137.js.map": "/divine/static/js/main.6112b137.js.map",
-    "623.aa3e1798.chunk.js.map": "/divine/static/js/623.aa3e1798.chunk.js.map",
+    "main.124371b3.js.map": "/divine/static/js/main.124371b3.js.map",
+    "623.7b95643a.chunk.js.map": "/divine/static/js/623.7b95643a.chunk.js.map",
     "230.759e1e87.chunk.js.map": "/divine/static/js/230.759e1e87.chunk.js.map",
-    "254.b89a6b02.chunk.js.map": "/divine/static/js/254.b89a6b02.chunk.js.map",
-    "526.03e6199f.chunk.js.map": "/divine/static/js/526.03e6199f.chunk.js.map",
+    "7.2f7a922b.chunk.js.map": "/divine/static/js/7.2f7a922b.chunk.js.map",
     "994.8d9d823c.chunk.js.map": "/divine/static/js/994.8d9d823c.chunk.js.map",
     "787.0730a156.chunk.js.map": "/divine/static/js/787.0730a156.chunk.js.map",
-    "575.3aed44f9.chunk.js.map": "/divine/static/js/575.3aed44f9.chunk.js.map",
+    "329.4477b6d0.chunk.js.map": "/divine/static/js/329.4477b6d0.chunk.js.map",
     "984.6684283e.chunk.js.map": "/divine/static/js/984.6684283e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22450541.css",
-    "static/js/main.6112b137.js"
+    "static/js/main.124371b3.js"
   ]
 }
